@@ -1,9 +1,18 @@
 # Skoltech Thesis Template in LaTeX
 
-This LaTeX template conforms to the Skoltech Thesis specifications,
+This LaTeX template conforms to the Skoltech thesis specifications,
 however the specifications can change.  We recommend that you verify the
 layout of your title page with your thesis advisor and the Education department 
 before printing your final copy.
+
+# Features
+
+* Skoltech standard conformant layout, cover pages and structure
+* List of student's publications
+* Table of contents and cross references with hyperlinks
+* Bibliography with DOIs and URLs
+* Chapter headers with inspirational citations
+* List of TODO marks left in the text
 
 # Structure
 
