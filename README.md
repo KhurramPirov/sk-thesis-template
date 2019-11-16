@@ -7,7 +7,7 @@ before printing your final copy.
 
 # Features
 
-* Skoltech standard conformant layout, cover pages and structure
+* Skoltech standard conforming layout, cover pages and structure
 * List of student's publications
 * Table of contents and cross references with hyperlinks
 * Bibliography with DOIs and URLs
