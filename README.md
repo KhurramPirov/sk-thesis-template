@@ -18,5 +18,13 @@ The template presumes use with PDFLaTeX.
 
 This template can be used on [Overleaf](https://www.overleaf.com/).
 
-The main file allows to activate `DRAFT` mode or define, wheter the final version is double paged.
+The document class allows to activate draft or standard mode.
+
+* `Draft Mode` renders a simple title page, excludes the dedication and acknowledgements page.
+It adds a footer with the date of the last build.
+Moreover, a list of open items (TODO list) is included at the beginning.
+
+* In `Normal mode` the official cover page is rendered.
+
+If needed one can activate the to render a double page PDF, where chapters always start on an odd page.
 
