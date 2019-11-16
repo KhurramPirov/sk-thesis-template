@@ -1,0 +1,17 @@
+*.aux
+*.bbl
+*.blg
+*.dvi
+*.glo
+*.glsdefs
+*.ist
+*.log
+*.out
+*.pdf
+*.toc
+*.gz
+*.glg
+*.gls
+*.lot
+*.lof
+*.tdo
